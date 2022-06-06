@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning .Net MVC, Java Spring Framework and AI stuies at Bahçeşehir University as a master student.
 - 📫 How to reach me **osaldiran@gmail.com**
 
+[![trophy](https://github-profile-trophy.vercel.app/?omersadiran=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omersaldiran&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="omersaldiran" /></a> </p>
 <p>
 
